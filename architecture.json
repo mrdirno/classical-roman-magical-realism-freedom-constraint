@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_magical_realism_freedom_constraint",
+  "title": "The Sighs of Rome",
+  "tagline": "A postman discovers the city's hidden veins of magic, where every stone remembers and every whisper demands a price.",
+  "target_words": 70000,
+  "actual_words": 70600,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The City as a Living Palimpsest",
+    "The Burden of Ancient Memory",
+    "Freedom Through Constraint (The Postman's Path)",
+    "The Magic of Thresholds and Delivery"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Porter's Fountain",
+      "words": 2940
+    },
+    {
+      "ch": 2,
+      "title": "The Custodian of Whispers",
+      "words": 2940
+    },
+    {
+      "ch": 3,
+      "title": "The Ink of the Aventine",
+      "words": 2940
+    },
+    {
+      "ch": 4,
+      "title": "The First Rule of the Labyrinth",
+      "words": 2940
+    },
+    {
+      "ch": 5,
+      "title": "The Ghost in the Aqueduct",
+      "words": 2940
+    },
+    {
+      "ch": 6,
+      "title": "Signora Valeria's Warning",
+      "words": 2940
+    },
+    {
+      "ch": 7,
+      "title": "Aurelio's Vellum",
+      "words": 2940
+    },
+    {
+      "ch": 8,
+      "title": "The Senate of Shadows",
+      "words": 2940
+    },
+    {
+      "ch": 9,
+      "title": "The Letter That Refused to be Delivered",
+      "words": 2940
+    },
+    {
+      "ch": 10,
+      "title": "The Hum of the Via Appia",
+      "words": 2940
+    },
+    {
+      "ch": 11,
+      "title": "The Price of a Sigh",
+      "words": 2940
+    },
+    {
+      "ch": 12,
+      "title": "The Map of Absences",
+      "words": 2940
+    },
+    {
+      "ch": 13,
+      "title": "The Feast of Forgotten Gods",
+      "words": 2940
+    },
+    {
+      "ch": 14,
+      "title": "The Bureaucracy of Echoes",
+      "words": 2940
+    },
+    {
+      "ch": 15,
+      "title": "Breaking the Route",
+      "words": 2940
+    },
+    {
+      "ch": 16,
+      "title": "The Weight of the Cobblestone",
+      "words": 2940
+    },
+    {
+      "ch": 17,
+      "title": "The Archive Under the Tiber",
+      "words": 2940
+    },
+    {
+      "ch": 18,
+      "title": "The Postman's Oath",
+      "words": 2940
+    },
+    {
+      "ch": 19,
+      "title": "The Rebellion of Stillness",
+      "words": 2940
+    },
+    {
+      "ch": 20,
+      "title": "The Final Delivery",
+      "words": 2940
+    },
+    {
+      "ch": 21,
+      "title": "The Awakening of the Stones",
+      "words": 2940
+    },
+    {
+      "ch": 22,
+      "title": "The Choice at the Puteal",
+      "words": 2940
+    },
+    {
+      "ch": 23,
+      "title": "The New Vellum",
+      "words": 2940
+    },
+    {
+      "ch": 24,
+      "title": "The First Step of a New Route",
+      "words": 2940
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Leo must deliver a message to a forgotten river spirit trapped in the pipes beneath Rome's modern streets.",
+      "Create a 'Field Guide to Rome's Hidden Magic' from Leo's perspective, detailing rules, landmarks, and dangers.",
+      "Write a 'prequel' short story about Leo's great-uncle Aurelio and the magical book restoration that first attuned him to the city's layers.",
+      "Draft a series of 'Cobblestone Tales'—very short stories (100-300 words) about the specific memory or sigh contained within a single stone on Leo's route."
+    ],
+    "technical": [
+      "Build an interactive map of Rome where users can click on landmarks to reveal 'hidden' magical lore, whispers, or memories from the story.",
+      "Create a 'Magical Postal System Simulator' where the player, as a portalettere, must manage a route, prioritize deliveries, and navigate the constraints of both the mundane and magical cities."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Italo Calvino",
+      "Franz Kafka",
+      "Ursula K. Le Guin",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A weary Roman postman in a simple tunic, carefully placing a luminous, whispering letter into a crack in a weathered travertine wall that pulses with a soft, ethereal light, [Detailed Scene & Context: set at dawn in a narrow, forgotten alley of ancient Rome, where the stones are layered with faded frescoes, mossy inscriptions, and ghostly, semi-transparent echoes of past citizens going about their day, the city itself breathing as a living, memory-saturated entity], [Artistic Style & Medium: in the atmospheric style of a classical painting by Anselm Kiefer, blended with the magical realism of Remedios Varo, rendered in textured oil paints and mixed media with embedded fragments and patina], [Composition & Camera: book cover framing, a centered and intimate composition looking over the postman's shoulder, a dramatic low-angle shot emphasizing the towering, memory-laden walls and the narrow path ahead], [Lighting & Color Palette: dramatic chiaroscuro lighting where the only strong light source emanates from the magical letter and the dawn sky above the alley, casting long, deep shadows; a color palette of ancient ochres, burnt sienna, volcanic grays, and dusty umbers, contrasted with the spectral blues and golds of the magical veins], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
