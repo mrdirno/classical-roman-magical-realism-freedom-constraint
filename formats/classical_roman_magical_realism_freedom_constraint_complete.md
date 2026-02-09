@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER ONE**
 
 The first thing you must understand is this: the stones of Rome are not dead. They are sleeping. And on that Tuesday in late October, as the sun bled into the Tiber, the cobbles beneath my feet began to dream.
@@ -111,6 +113,8 @@ I picked up the feather. In the lamplight, the iridescent tip shimmered, a color
 Outside, a church bell tolled the hour, its sound washing over the sleeping stones. I knew, with a certainty that settled in my bones like the cold from that hidden courtyard, that my route had just been irrevocably changed. The known map was obsolete. The deliveries were about to begin in earnest.
 
 And the first letter had already been delivered. To me.
+
+# Chapter 2
 
 ## **CHAPTER TWO**
 
@@ -245,6 +249,8 @@ Just two words, in the same iron-gall ink: *Ad Flumina*.
 To the Rivers.
 
 The second delivery had arrived.
+
+# Chapter 3
 
 ## **CHAPTER THREE**
 
